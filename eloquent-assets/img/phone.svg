@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="181px" height="368px" viewBox="0 0 181 368" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>iPhone 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M181,78.1989577 C180.757097,78.380404 180.599976,78.6690064 180.599976,78.9929654 L180.599976,104.007035 C180.599976,104.332645 180.756453,104.621649 181,104.802729 L181,340.008169 C181,354.365247 169.358593,366 154.998191,366 L29.0018094,366 C14.6447238,366 3,354.363061 3,340.008169 L3,25.9918307 C3,11.6347532 14.6414066,0 29.0018094,0 L154.998191,0 C169.355276,0 181,11.636939 181,25.9918307 L181,78.1989577 Z" id="path-1"></path>
+        <rect id="path-2" x="8" y="4" width="169" height="357" rx="22"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tablet-Copy" transform="translate(-294.000000, -238.000000)">
+            <g id="iPhone-6" transform="translate(293.000000, 239.000000)">
+                <rect id="Rectangle-47-Copy" fill="#FFFFFF" x="3" y="0" width="178" height="366" rx="26"></rect>
+                <circle id="Oval-6" stroke="#61CDFA" cx="64" cy="23" r="3"></circle>
+                <rect id="Rectangle-7" stroke="#61CDFA" x="77.5" y="21.5" width="29" height="3" rx="1.5"></rect>
+                <g id="Rectangle-5">
+                    <use stroke="#0C9BD4" xlink:href="#path-1"></use>
+                    <use stroke="#1E9CD2" xlink:href="#path-1"></use>
+                </g>
+                <g id="Rectangle-6">
+                    <rect stroke="#0C9BD4" x="8.5" y="4.5" width="168" height="356" rx="22"></rect>
+                    <rect stroke="#1E9CD2" x="8.5" y="4.5" width="168" height="356" rx="22"></rect>
+                </g>
+                <path d="M1.99822533,78.4954226 L1.99822538,106" id="Line" stroke="#61CDFA" stroke-linecap="square"></path>
+                <path d="M2.5,46.4411765 L2.5,60.5588235" id="Line" stroke="#61CDFA" stroke-linecap="square"></path>
+                <path d="M1.99777581,111.01 L1.99777581,138.916665" id="Line" stroke="#61CDFA" stroke-linecap="square"></path>
+                <circle id="Oval-5" stroke="#61CDFA" cx="92" cy="11" r="2"></circle>
+                <rect id="Rectangle-8" stroke="#61CDFA" x="14.5" y="43.5" width="155" height="277" rx="2"></rect>
+                <circle id="Oval-7" stroke="#61CDFA" cx="92" cy="342" r="12"></circle>
+                <circle id="Oval-8" stroke="#61CDFA" cx="92" cy="342" r="14"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

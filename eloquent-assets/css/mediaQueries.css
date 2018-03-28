@@ -1,0 +1,470 @@
+/*-mobile-*/
+@media only screen and (min-width: 359px) and (max-width: 768px) { /*768px*/
+	/*Global*/
+	*,
+	*::before,
+	*::after {
+	  box-sizing: border-box;
+	}
+
+	div.body{
+		width:100%;
+	}
+	/*Navigation Bar*/
+	div.navbar.navbar-expand-sm{
+		padding-top: 2rem;
+	}
+	div.mobile-logo{
+		position:relative;
+		right:9rem;
+	}
+	span.navbar-toggler-icon{
+		font-size:25px;
+		color:#1CA6DE;
+	}
+	div.hero-title{
+	font-size: 24px;
+    padding-top: 3rem;
+	}
+	div.hero-callout,
+	div.platform h2,
+	div.verticals h2,
+	div.demo h2,
+	a.responsive-platform-title{
+		font-size:20px;
+	}
+	div.mission-body,
+	div.responsive-platform-text{
+		font-size:16px;
+		padding:0 3rem;
+	}
+	div.platform h4,
+	div.verticals h4,
+	div.demo h4,
+	div.responsive-platform-text{
+		font-size:18px;
+		margin:1rem auto;
+
+	}
+
+	/*Index===========================*/
+
+	div.body > div.platform > div.platform-holder, img.platform-img,
+	div.platform-knowledge-holder,
+	div.platform-support-holder,
+	div.platform-kb-caption,
+	div.platform-ai-caption,
+	div.enterprise-grade-features
+	{
+		display:none;
+	}
+	div.responsive-platform-knowledge-holder{
+		margin-top:2rem;
+	}
+	embed.responsive-database-img,
+	embed.responsive-synapses-img,
+	embed.responsive-desktop-img,
+	embed.responsive-talk-bubble-img{
+		height:80px;
+		margin: 3rem auto 1rem auto;
+	}
+	div.platform-holder-mobile > svg{
+		width:10rem;
+	}
+	div.features{
+		margin-bottom:-7rem;
+	}
+	div.responsive-ai-caption,
+	div.responsive-kb-caption{
+		margin:1rem auto 3rem auto;
+	}
+	div.eloquent-header{
+		margin-top:8rem;
+	}
+	div.body > h1{
+		font-size:26px;
+	}
+	div.body > h2,
+	div.elk-explainer > h2,
+	div.features > h2,
+	div.enterprise-grade > h2,
+	div.elle-explainer > h2{
+		font-size:20px;
+		padding:0 1rem;
+	}
+	div.elk-explainer > h4,
+	div.features > h4,
+	div.enterprise-grade > h4,
+	div.elle-explainer > h4{
+		font-size:18px;
+		margin:1rem auto;
+	}
+
+
+	/*Elk===========================*/
+	div#hero-container.elk-hero-container > img{
+		width:100%;
+		position:relative;
+		bottom:5rem;
+	}
+	div.chat-bubble-container{
+		width:60%;
+	}
+	div.abstract-info.abstract-info-1,
+	div.abstract-info.abstract-info-2{
+		text-align:center;
+	}
+	img.abstract-cloud-up-arrow,
+	img.abstract-cloud{
+		margin-top:3rem;
+	}
+	img.abstract-cloud{
+		width:90% !important;
+	}
+	div.abstract-dot-track > div.abstract-info.abstract-info-elk-1{
+		left: -187px;
+	}
+	div.abstract-dot-track > div.abstract-info.abstract-info-elk-3{
+		left:79px;
+		width:141px;
+	}
+	div.feature-body{
+		margin-top:5rem;
+	}
+	div.feature-body,
+	div.feature-description{
+		padding: 0;
+	}
+	div.feature{
+		display:inline-block;
+		margin:0 auto 7rem;
+	}
+	div.feature-description{
+		text-align:center;
+		margin-bottom:20px;	
+	}
+	div.feature-title.responsive-2,
+	div.feature-title.responsive-3{
+		text-align:center;
+		position:relative;
+		right:24px;
+	}
+	
+	div.feature-number{
+		position:relative;
+		left:44%;
+		top:27px;
+	}
+	div.feature-text{
+		text-align:center;
+		position:relative;
+		right:24px;
+	}
+	div.feature-illustration.feature-illustration-active{
+		left:50px;
+		top:16px;
+		width:100%;
+	}
+	div.read-text-doc.read-text-doc-3{
+		top:56px;
+	}
+	.read-text-doc{
+		width:241px;
+		height:189px;
+	}
+	.read-text-doc-2{
+		top:44px;
+	}
+	.read-text-doc-1{
+		top:30px;
+	}
+	div.chat-bubble.chat-bubble-reply.responsive-5{
+		position:relative;
+		top:1rem;
+		right:5rem;
+		width:165%;
+	}
+	div.chat-bubble.chat-bubble-reply.responsive-4{
+		width:167%;
+		position:relative;
+		top:0;
+		right:5rem;
+	}
+	div.chat-bubble.responsive-6{
+		width:18rem;
+	}
+	div.linguistic-variation-detection{
+		position:absolute;
+		right:4rem !important;
+		left:0;
+	}
+	div.chat-bubble.chat-bubble-reply.responsive-7{
+		width:11.6rem;
+	}
+	div.row.container.enterprise{
+		margin:1rem auto;
+	}
+	div.enterprise-grade-title-mobile{
+		font-size:17px;
+		margin-bottom:5px;
+	}
+	div.absolute-mobile{
+		position:absolute !important;
+	}
+
+	/*Elle===========================*/
+	div.chat-elle-hero{
+		width:150%;
+	}
+	img.abstract-cloud-elle,
+	img.abstract-dashboard{
+		width:50%;
+		margin-top:3rem;
+	}
+	.abstract-dot-human-track >
+	img.abstract-cloud-up-arrow{
+		position:absolute;
+		top:212px;
+	}
+	div.elle-feature-title-1{
+		text-align:center;
+		position:relative;
+		right:18px;
+	}
+	div.chat-elle-1,
+	div.chat-research-1{
+		width:70%;
+	}
+	div.chat-elle-2{
+		width:10rem;
+	}
+	table.personality-grid{
+		position:absolute;
+		left:55px;
+	}
+
+
+	/*research===========================*/
+	div.body > p{
+		font-size:18px;
+		padding:0 1.8rem 0;
+		text-align:left;
+	}
+	div.p-header{
+		font-size:20px;
+		margin-left:1.5rem;
+	}
+	div.spotlight{
+		margin:0;
+		display:inline-block;
+		flex-direction:column;
+	}
+	div.spotlight-paper{
+		position:relative;
+		left:28%;
+		margin:3rem 0;
+	}
+	div.spotlight-published{
+		width:84%;
+		text-align:center;
+		margin-top:6px;
+	}
+	div.people{
+		flex-direction:column;
+	}
+	div.research-feature-title-1{
+		text-align:center;
+		position:relative;
+		right:18px;
+	}
+	div.person{
+		margin-top:4rem;
+	}
+
+	/*careers===========================*/
+	div.responsive-tab-title{
+		font-size:20px;
+	}
+	div.tab.tab-open{
+		max-height:1500px;
+	}
+	/*contact===========================*/
+	div.map > iframe{
+		display:none;
+	}
+}
+
+
+/*-mobile landscape-*/
+
+@media only screen and (min-width: 660px) and (max-width: 768px){
+
+	/*-Global-*/
+	div.mobile-logo{
+		display:none;
+	}
+	.navbar{
+		position:fixed;
+		left:8rem;
+	}
+	/*-Elk-*/
+	div#hero-container.elk-hero-container > img{
+		margin-top: 6rem;
+		width: 75%;
+	}
+	div.abstract.abstract-elk > img.abstract-cloud{
+		width: 50% !important;
+	}
+	img.abstract-cloud{
+		z-index:2;
+	}
+	div.feature-body{
+		text-align:center;
+	}
+	div.feature-number{
+		position:relative;
+		left:48%;
+	}
+	div.feature-title{
+		position:relative;
+		right:22px;
+	}
+	div.feature-text{
+		padding: 10px 61px;
+	}
+	div.knowledge-capture-question{
+		position:relative;
+		left:6rem;
+	}
+	div.knowledge-capture-blue-arrow{
+		position:absolute;
+		left:195px;
+	}
+	div.knowledge-capture-grey-arrow{
+		position:absolute;
+		left:336px;
+	}
+	div.chat-bubble.chat-bubble-reply.responsive-4.reply-2{
+		position:relative;
+		right:14rem;
+	}
+	div.knowledge-capture-person{
+		position:absolute;
+		left:329px;
+	}
+	div.knowledge-capture-database{
+		left:11.2rem;
+	}
+	div.knowledge-capture-person-text{
+		position:absolute;
+		left:18.3rem;
+	}
+	div.knowledge-capture-database-text{
+		position:absolute;
+		left:9.2rem;
+	}
+	div.chat-bubble.responsive-6.question-3{
+		position:relative;
+		left:3rem;
+	}
+	div.linguistic-variation-detection{
+		position:absolute;
+		left:8rem;
+		width:48%;
+	}
+	div.chat-bubble.chat-bubble-reply.responsive-7.reply-3{
+		position:relative;
+		left:17rem;
+	}
+
+	/*-Elle-*/
+	img.abstract-cloud-elle,
+	img.abstract-dashboard{
+		width:25%;
+	}
+	div.chat-bubble.chat-elle-1{
+		width:50%;
+		position:relative;
+		left:7rem;
+	}
+	div.knol-publish-knol{
+		position:absolute;
+		left:9rem;
+	}
+	div.knol-publish-cursor{
+		position:absolute;
+		left:12rem;
+	}
+	div.chat-bubble.chat-elle-2{
+		position:relative;
+		left:18rem;
+	}
+	div.chat-bubble-container.reply-4{
+		position:relative;
+		left:4rem;
+	}
+	table.personality-grid{
+		position:absolute;
+		left:12rem;
+	}
+
+	/*-Research-*/
+	div.body > p{
+		padding: 0 4rem 0;
+	}
+	div.p-header{
+		margin-left:4rem;
+	}
+	div.spotlight-paper{
+		position:relative;
+		left:39%;
+	}
+	div.spotlight-title{
+		text-align:center;
+		padding: 0 7rem;
+	}
+	div.spotlight-published{
+		width:84%;
+		text-align:center;
+	}
+	div.chat-research-1{
+		position:relative;
+		left:3rem;
+	} 
+
+}
+
+
+
+/* -tablet- */
+@media screen and (min-width: 769px) {
+	div.platform-holder-mobile,
+	div.enterprise-grade-features-mobile{
+		display:none;
+	}
+
+}
+
+/* -tablet only- */
+@media screen and (min-width: 769px) and (max-width: 999px){
+	div.platform-holder-mobile{
+		display:none;
+	}
+}
+
+/* -desktop- */
+@media screen and (min-width: 1000px) {
+	div.platform-holder-mobile,
+	div.enterprise-grade-features-mobile{
+		display:none;
+	}
+
+}
+
+/* -desktop only- */
+@media screen and (min-width: 1000px) and (max-width: 1191px) {
+	div.platform-holder-mobile,
+	div.enterprise-grade-features-mobile{
+		display:none;
+	}
+}

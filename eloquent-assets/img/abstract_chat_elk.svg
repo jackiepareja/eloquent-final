@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="121px" height="149px" viewBox="0 0 121 149" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 20</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="115" height="143" rx="4"></rect>
+        <rect id="path-2" x="0" y="0" width="116" height="23"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tablet" transform="translate(-326.000000, -921.000000)">
+            <g id="Group-20" transform="translate(329.000000, 924.000000)">
+                <g id="Rectangle-5">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#1CA6DE" stroke-width="3" x="-1.5" y="-1.5" width="118" height="146" rx="4"></rect>
+                </g>
+                <rect id="Rectangle-5-Copy" stroke="#1CA6DE" x="6.5" y="29.2900391" width="102" height="13.6099997" rx="2"></rect>
+                <ellipse id="Oval-6" stroke="#1CA6DE" cx="14.107903" cy="61.0506469" rx="7.10790296" ry="7.05064685"></ellipse>
+                <path d="M26.3845892,55.59375 L38.034722,55.59375" id="Line" stroke="#1CA6DE" stroke-linecap="square"></path>
+                <ellipse id="Oval-6-Copy-7" stroke="#1CA6DE" cx="14.107903" cy="86.1306469" rx="7.10790296" ry="7.05064685"></ellipse>
+                <path d="M26.3845892,79.59375 L38.034722,79.59375" id="Line-Copy-35" stroke="#1CA6DE" stroke-linecap="square"></path>
+                <path d="M26.3845892,64.6166958 L77.2173995,64.6166958" id="Line-Copy-52" stroke="#1CA6DE" stroke-linecap="square"></path>
+                <path d="M26.3845892,71.6166958 L89.3306073,71.6166958" id="Line-Copy-53" stroke="#1CA6DE" stroke-linecap="square"></path>
+                <path d="M26.3845892,88.6166958 L107.440415,88.6166958" id="Line-Copy-55" stroke="#1CA6DE" stroke-linecap="square"></path>
+                <path d="M26.3845892,95.6166958 L89.3306073,95.6166958" id="Line-Copy-54" stroke="#1CA6DE" stroke-linecap="square"></path>
+                <path d="M13.2904767,40.1400146 L13.2904767,31.5799561" id="Line-Copy-48" stroke="#1CA6DE" stroke-width="0.5" stroke-linecap="square"></path>
+                <g id="Rectangle-10">
+                    <use fill-opacity="0.123584692" fill="#1CA6DE" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#1CA6DE" stroke-width="1" x="0.5" y="0.5" width="115" height="22"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
